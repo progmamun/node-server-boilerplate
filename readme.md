@@ -10,3 +10,5 @@
 
 - `yarn add express dotenv morgan colors mongoose`
 - `yarn add -D nodemon`
+
+## ndb package for debug
